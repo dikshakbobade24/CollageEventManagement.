@@ -1,0 +1,2 @@
+# CollageEventManagement.
+Collage Event Management
